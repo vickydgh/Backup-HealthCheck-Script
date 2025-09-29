@@ -45,12 +45,12 @@ To automate the backup of a specified local directory by compressing it and uplo
 ## S3 Bucket
 Uploaded backup ZIP files stored securely in AWS S3.
 
-![s3 Bucket](Images_Proof/1.png)
+![S3 Bucket](Automated_Backup_Solution\Images_Proof\1.png)
 
 ## Python Script
 Terminal output showing successful backup and upload process.
 
-![Python Script](Images_Proof/4.png)
+![Python Script](Automated_Backup_Solution\Images_Proof\4.png)
 
 ---
 
@@ -97,12 +97,12 @@ To check the uptime of an application (website) and determine if it is **functio
 ## Health Checker Script
 Bash script code for monitoring application uptime.
 
-![Bash Script](Images/3.png)
+![Bash Script](Application_Health_Checker\Images\3.png)
 
 ## Terminal & Alert
 Script execution results with uptime status and email alert trigger.
 
-![Terminal](Images/4.png)
+![Terminal](Application_Health_Checker\Images\4.png)
 
 ---
 
