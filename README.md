@@ -1,6 +1,4 @@
-# **README – Automation Projects**
-
-## 📌 Project Overview
+# 📌**Project Overview**
 
 This repository contains two automation projects developed using **Python** and **Bash (WSL)** integrated with **AWS services**.
 The projects demonstrate system automation, cloud integration, and monitoring capabilities.
